@@ -1,0 +1,6 @@
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\Hugo\Documents\GitHub\DN9_Hugo_Bustamante\Tutorial1\AudioManager\obj\Debug\AudioManager.pdb
