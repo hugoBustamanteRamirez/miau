@@ -1,0 +1,33 @@
+intall mysql
+docker run -it --name perron -p 3307:3306 ubuntu
+apt install mysql-server
+apt install nano
+ mysql
+create user 'master'@'%' identified by 'root';
+grant all  privileges on *.* to 'master'@'%' with grant options;
+flush privileges;
+cd etc/mysql/mysql.conf.d
+ nano mysqld.cnf= cambias a 0.0.0.0
+-------------------
+apt install apache2
+-----------
+apt install vsftpd for nano /etc/vsftpd.conf; write-enablw:yes, 022
+restar bla
+adduer userManual
+adduser prueba
+12345
+y
+cmd win
+pwd
+-----------------
+ssh
+ apt
+install ssh
+
+-----------------
+ apt install postgresql
+su - prostgres
+create user hugo with password ''
+nano /etc/postgresql/14/main pg_hba.conf”
+docker run -it --name Manual12 -p 8000:80 -pc 8001:21 -p
+8002:22 -p 3307:3306 -p 3308:3307 ubuntu
